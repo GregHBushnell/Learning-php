@@ -1,0 +1,2 @@
+localhost/phpbasics//loginsystem/login.php
+http://localhost/phpmyadmin/

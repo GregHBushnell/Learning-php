@@ -1,0 +1,2 @@
+localhost/phpbasics//5profilesystem/index.php
+http://localhost/phpmyadmin/
