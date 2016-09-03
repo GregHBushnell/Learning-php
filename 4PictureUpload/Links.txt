@@ -1,0 +1,2 @@
+localhost/phpbasics//pictureupload/index.php
+http://localhost/phpmyadmin/

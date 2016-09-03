@@ -1,0 +1,86 @@
+.header{
+	background-color: #1A3333;
+	color: white;
+	text-align: center;
+	top:0px;
+	width:100%;
+	padding: 1%;
+}
+.headerRegistration{
+	background-color: #1A3333;
+	color: white;
+	text-align: center;
+	top:0px;
+	width:100%;
+	padding: 2.5%;
+}
+.TextInput{
+	margin-top: 2px;
+	height: 28px;
+	border: 2px solid #5E6E66;
+	font-size: 16px;
+	padding: 1px;
+	width: 100%;
+	margin: auto;
+}
+.Content{
+	text-align: center;
+}
+.loginBox{
+	width: 10%;
+	padding: 0.1%;
+	margin: auto;
+	height:auto%;
+}
+.loginBox ul {
+	padding: 1%;
+	margin: auto;
+	list-style: none;
+	background-color: yellow;
+	overflow:hidden;
+	float:left;
+	position: relative;
+}
+.loginBox li {
+	width:90%;
+	float:left;
+	position: relative;
+}
+.Buttons{
+	float:left;
+	display:inline;
+	padding-top:5%;
+	overflow: hidden;
+    white-space: nowrap;
+}
+#RegisterBox{
+	width: 100%;
+	padding: 0.1%;
+	overflow:hidden;
+	border: 1px solid white;
+	margin: auto;
+	background-color: yellow;
+	float:left;
+	position: relative;
+	display: none;
+}
+.RegisterBox ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  position: relative;
+  width:90%;
+}
+.RegisterBox li {
+width:80%;
+float:left;
+position: relative
+}
+#error_msg{
+	width: 50%;  
+	color: #FF0000;
+}
+body{
+	padding: 0px;
+	margin: 0px;
+}
